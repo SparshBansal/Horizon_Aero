@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartIndia Hackathon</string>
+
+    <!-- KEYS for intercomponent transfers -->
+    <string name="KEY_AIRPORT">airport</string>
+    <string name="KEY_CARRIER">carrier</string>
+    <string name="KEY_FLIGHT">flight</string>
+
+    <!-- String resources for xml views-->
+    <string name="carrier">Carrier</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="airport">Airport</string>
+
+
+    <!-- Url for maps directions api -->
+    <string name="API_KEY">YOUR_API_KEY_HERE</string>
+
+
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="KEY_AIRPORT_ID">airport_id</string>
+    <string name="KEY_CARRIER_ID">carrier_id</string>
+    <string name="KEY_FLIGHT_ID">flight_id</string>
+
+</resources>
